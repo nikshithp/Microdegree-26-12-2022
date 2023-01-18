@@ -4,3 +4,6 @@ echo "hello world"
 Git add .
 git commit -m "your message"
 
+
+git pull
+
